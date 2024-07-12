@@ -1,0 +1,15 @@
+p {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+a {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    text-decoration: none; /* Add this line to remove the underline */
+    color: rgb(105, 93, 90);
+  }
